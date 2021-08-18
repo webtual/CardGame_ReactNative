@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from [com.facebook.react:react-native:0.65.0] /Users/webtualapple/.gradle/caches/transforms-3/6fdf00d63af772bc6a903cd19a48c1b1/transformed/jetified-react-native-0.65.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/webtualapple/.gradle/caches/transforms-3/a96b37954db5342d5a526118cb955864/transformed/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/13bebdb3339afdb76b85a52da2a4f014/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/2ea2df6282a046e14f098c0d0b0e428a/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/41891c34b587d645680f75e1c9f04ac3/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/bed04c28ec30b3060ac9973d657b08a2/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/webtualapple/.gradle/caches/transforms-3/69f3347c9fa36b4716302fa88101cfdb/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/12e190645ed9ace1184ef49ed048bcd9/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/f65b47206afb40d0d75dc8243b25c4de/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/cde2d109bdfd9cee363dafb3d3d24809/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/6edef18ccfb856fadf1aa52e624a4453/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/9e40a0c24fb2f9574af85353368f5db0/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/dc30f0c0ae5bda77120cfbd66a71e4ba/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/eadc0ad7f47dcbfab4f9c49523fc738a/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/051e88f825710722dc713781efa648d8/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/f34f842c0b4e6c1310b1806a917744d2/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/3dad81705b2338a86d3611c73b8d06f6/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/a62ac3b88eab527308913517270441ad/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/b87b57b6b53f5d55a49f367f2db655d1/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/45f0620e99a1589707c6bc4b27ff6737/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/ae84b6dc0d7da25304c9adc6063b05f1/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/webtualapple/.gradle/caches/transforms-3/4b0660ee29f177fe0d09433b7bf968b5/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/f8d8d84912234a5133da1f54718c30b4/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/a285603daaa87f3980dfb80b0e588346/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/webtualapple/.gradle/caches/transforms-3/b2550a5bdda5a84dfca4891186b4e6d5/transformed/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/a7e20b262dd26848f60097e923f1cdbd/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/4ef60489fa2554f6e9507c73450a1267/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/bd1ec14b0ab05b8b8957a3b84b888348/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/41766ddb0e1f6b300ccb08cc33e3eb69/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/1f98bfbb4c1a40f2f7ad0cd4cf4a6989/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/dd47b85253e9aee20ae7777af58dbc66/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/59b6cc43ef321590f9a68c05b5eca510/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/webtualapple/.gradle/caches/transforms-3/893f066b335c7cf53be6ea89ecd283a0/transformed/core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/c6fc11be7a0f83c66cdf352639b320f1/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/55fde744a6672d7049d4d70dfa5b3246/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/webtualapple/.gradle/caches/transforms-3/7bcbdb5337a593e73db7939603198dd8/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/cc1e0889af098b0798ec0597558d02b7/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/8e8c4acb0cfa5b42a0d8672b39e2bcff/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/bb78c46bb22f8a467f2bf2bd5e57ec74/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/webtualapple/.gradle/caches/transforms-3/55c6bfa7b363d5c8c731f8ec872c1e33/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/webtualapple/.gradle/caches/transforms-3/e5941978af070df67b82caab582678f5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/webtualapple/.gradle/caches/transforms-3/fa093181d7ebb6451884506dcf233740/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/webtualapple/.gradle/caches/transforms-3/9ffe4ded92df3e664d11613a4f37ed6c/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/4fc9cb80db12622b9e615b5f9e8d0c51/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:1:1-25:12
+	package
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.65.0] /Users/webtualapple/.gradle/caches/transforms-3/6fdf00d63af772bc6a903cd19a48c1b1/transformed/jetified-react-native-0.65.0/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.65.0] /Users/webtualapple/.gradle/caches/transforms-3/6fdf00d63af772bc6a903cd19a48c1b1/transformed/jetified-react-native-0.65.0/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/webtualapple/.gradle/caches/transforms-3/4b0660ee29f177fe0d09433b7bf968b5/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/webtualapple/.gradle/caches/transforms-3/4b0660ee29f177fe0d09433b7bf968b5/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/webtualapple/.gradle/caches/transforms-3/893f066b335c7cf53be6ea89ecd283a0/transformed/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/webtualapple/.gradle/caches/transforms-3/893f066b335c7cf53be6ea89ecd283a0/transformed/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/c6fc11be7a0f83c66cdf352639b320f1/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/c6fc11be7a0f83c66cdf352639b320f1/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/webtualapple/.gradle/caches/transforms-3/893f066b335c7cf53be6ea89ecd283a0/transformed/core-1.0.1/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.cardgame.MainActivity
+ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml:21:23-70
+uses-sdk
+INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.65.0] /Users/webtualapple/.gradle/caches/transforms-3/6fdf00d63af772bc6a903cd19a48c1b1/transformed/jetified-react-native-0.65.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.65.0] /Users/webtualapple/.gradle/caches/transforms-3/6fdf00d63af772bc6a903cd19a48c1b1/transformed/jetified-react-native-0.65.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/webtualapple/.gradle/caches/transforms-3/a96b37954db5342d5a526118cb955864/transformed/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/webtualapple/.gradle/caches/transforms-3/a96b37954db5342d5a526118cb955864/transformed/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/13bebdb3339afdb76b85a52da2a4f014/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/13bebdb3339afdb76b85a52da2a4f014/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/2ea2df6282a046e14f098c0d0b0e428a/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/2ea2df6282a046e14f098c0d0b0e428a/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/41891c34b587d645680f75e1c9f04ac3/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/41891c34b587d645680f75e1c9f04ac3/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/bed04c28ec30b3060ac9973d657b08a2/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/bed04c28ec30b3060ac9973d657b08a2/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250230] /Users/webtualapple/.gradle/caches/transforms-3/69f3347c9fa36b4716302fa88101cfdb/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/webtualapple/.gradle/caches/transforms-3/69f3347c9fa36b4716302fa88101cfdb/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/12e190645ed9ace1184ef49ed048bcd9/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/12e190645ed9ace1184ef49ed048bcd9/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/f65b47206afb40d0d75dc8243b25c4de/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/f65b47206afb40d0d75dc8243b25c4de/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/cde2d109bdfd9cee363dafb3d3d24809/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/cde2d109bdfd9cee363dafb3d3d24809/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/6edef18ccfb856fadf1aa52e624a4453/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/6edef18ccfb856fadf1aa52e624a4453/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/9e40a0c24fb2f9574af85353368f5db0/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/9e40a0c24fb2f9574af85353368f5db0/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/dc30f0c0ae5bda77120cfbd66a71e4ba/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/dc30f0c0ae5bda77120cfbd66a71e4ba/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/eadc0ad7f47dcbfab4f9c49523fc738a/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/eadc0ad7f47dcbfab4f9c49523fc738a/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/051e88f825710722dc713781efa648d8/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/051e88f825710722dc713781efa648d8/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/f34f842c0b4e6c1310b1806a917744d2/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/f34f842c0b4e6c1310b1806a917744d2/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/3dad81705b2338a86d3611c73b8d06f6/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/3dad81705b2338a86d3611c73b8d06f6/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/a62ac3b88eab527308913517270441ad/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/a62ac3b88eab527308913517270441ad/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/b87b57b6b53f5d55a49f367f2db655d1/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/b87b57b6b53f5d55a49f367f2db655d1/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/45f0620e99a1589707c6bc4b27ff6737/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/45f0620e99a1589707c6bc4b27ff6737/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/ae84b6dc0d7da25304c9adc6063b05f1/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/ae84b6dc0d7da25304c9adc6063b05f1/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/webtualapple/.gradle/caches/transforms-3/4b0660ee29f177fe0d09433b7bf968b5/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/webtualapple/.gradle/caches/transforms-3/4b0660ee29f177fe0d09433b7bf968b5/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/f8d8d84912234a5133da1f54718c30b4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/f8d8d84912234a5133da1f54718c30b4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/a285603daaa87f3980dfb80b0e588346/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/a285603daaa87f3980dfb80b0e588346/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/webtualapple/.gradle/caches/transforms-3/b2550a5bdda5a84dfca4891186b4e6d5/transformed/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/webtualapple/.gradle/caches/transforms-3/b2550a5bdda5a84dfca4891186b4e6d5/transformed/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/a7e20b262dd26848f60097e923f1cdbd/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/a7e20b262dd26848f60097e923f1cdbd/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/4ef60489fa2554f6e9507c73450a1267/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/4ef60489fa2554f6e9507c73450a1267/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/bd1ec14b0ab05b8b8957a3b84b888348/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/bd1ec14b0ab05b8b8957a3b84b888348/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/41766ddb0e1f6b300ccb08cc33e3eb69/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/41766ddb0e1f6b300ccb08cc33e3eb69/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/1f98bfbb4c1a40f2f7ad0cd4cf4a6989/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/1f98bfbb4c1a40f2f7ad0cd4cf4a6989/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/dd47b85253e9aee20ae7777af58dbc66/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/dd47b85253e9aee20ae7777af58dbc66/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/59b6cc43ef321590f9a68c05b5eca510/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/59b6cc43ef321590f9a68c05b5eca510/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/webtualapple/.gradle/caches/transforms-3/893f066b335c7cf53be6ea89ecd283a0/transformed/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/webtualapple/.gradle/caches/transforms-3/893f066b335c7cf53be6ea89ecd283a0/transformed/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/c6fc11be7a0f83c66cdf352639b320f1/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/c6fc11be7a0f83c66cdf352639b320f1/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/55fde744a6672d7049d4d70dfa5b3246/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/55fde744a6672d7049d4d70dfa5b3246/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/webtualapple/.gradle/caches/transforms-3/7bcbdb5337a593e73db7939603198dd8/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/webtualapple/.gradle/caches/transforms-3/7bcbdb5337a593e73db7939603198dd8/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/cc1e0889af098b0798ec0597558d02b7/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/cc1e0889af098b0798ec0597558d02b7/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/8e8c4acb0cfa5b42a0d8672b39e2bcff/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/8e8c4acb0cfa5b42a0d8672b39e2bcff/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/bb78c46bb22f8a467f2bf2bd5e57ec74/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/webtualapple/.gradle/caches/transforms-3/bb78c46bb22f8a467f2bf2bd5e57ec74/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/webtualapple/.gradle/caches/transforms-3/55c6bfa7b363d5c8c731f8ec872c1e33/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/webtualapple/.gradle/caches/transforms-3/55c6bfa7b363d5c8c731f8ec872c1e33/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/webtualapple/.gradle/caches/transforms-3/e5941978af070df67b82caab582678f5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/webtualapple/.gradle/caches/transforms-3/e5941978af070df67b82caab582678f5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/webtualapple/.gradle/caches/transforms-3/fa093181d7ebb6451884506dcf233740/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/webtualapple/.gradle/caches/transforms-3/fa093181d7ebb6451884506dcf233740/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/webtualapple/.gradle/caches/transforms-3/9ffe4ded92df3e664d11613a4f37ed6c/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/webtualapple/.gradle/caches/transforms-3/9ffe4ded92df3e664d11613a4f37ed6c/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/4fc9cb80db12622b9e615b5f9e8d0c51/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/webtualapple/.gradle/caches/transforms-3/4fc9cb80db12622b9e615b5f9e8d0c51/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/webtualapple/Documents/Webtual/CardGame/android/app/src/main/AndroidManifest.xml

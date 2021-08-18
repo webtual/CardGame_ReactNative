@@ -1,0 +1,4 @@
+#Wed Aug 18 16:46:15 IST 2021
+base.0=/Users/webtualapple/Documents/Webtual/CardGame/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

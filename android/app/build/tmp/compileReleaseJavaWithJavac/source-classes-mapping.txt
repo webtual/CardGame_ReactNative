@@ -1,0 +1,9 @@
+com/cardgame/MainActivity.java
+ com.cardgame.MainActivity
+com/cardgame/BuildConfig.java
+ com.cardgame.BuildConfig
+com/cardgame/MainApplication.java
+ com.cardgame.MainApplication
+ com.cardgame.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
